@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=kamatealif&style=flat-square&color=blue" alt=""/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Data Scientist and contributing to AI Mdels.
 
