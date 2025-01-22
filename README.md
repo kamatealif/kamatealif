@@ -47,5 +47,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kamnatealif&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kamatealif&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamatealif&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
