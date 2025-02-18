@@ -29,7 +29,7 @@ I am a 🌽🌽 Farmer 🌽🌽 with  Data Scientist Skills <img src="https://me
 ### :hammer_and_wrench: Languages and Tools: 
 
 <div>
-    <img style={background-color:white}src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
+    <img style={background-color:white} src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas " width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
