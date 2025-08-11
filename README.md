@@ -21,7 +21,7 @@ I am a 🌽🌽 Farmer 🌽🌽 with  Data Scientist Skills <img src="https://me
 
 - :seedling: Exploring neural Networks.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I build websites.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alip-kamate-722917261/)
 
