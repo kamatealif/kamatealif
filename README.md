@@ -1,54 +1,72 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!-- Fancy Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C7B7&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/kamatealif">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C7B7&center=true&vCenter=true&lines=Hi+I'm+Alif+Kamate;Data+Scientist+%7C+ML+Engineer;AI+%26+Deep+Learning+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG">
+  </a>
+</p>
+
+---
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alip-kamate-722917261/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://kamatealif.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kamatealif&style=flat-square&color=blue" alt=""/>
-</div>
-
-I am a 🌽🌽 Farmer 🌽🌽 with  Data Scientist Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I’m working as a Data Scientist and contributing to AI Mdels.
-
-- :seedling: Exploring neural Networks.
-
-- :zap: In my free time, I build websites.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alip-kamate-722917261/)
-
----
-### :hammer_and_wrench: Languages and Tools: 
-
-<div>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt="NumPy" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
- <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/postgresql-%23F8931E.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt="CSS3"
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://komarev.com/ghpvc/?username=kamatealif&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
+# 👋 Hi, I’m **Alif Kamate**
+🚀 Passionate **Data Scientist & AI Enthusiast** from India  
+
+- 🔭 Currently working on **Machine Learning & AI Models**  
+- 🌱 Exploring **Deep Learning & Neural Networks**  
+- ⚡ In free time, I build **Web Applications**  
+- 📬 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-alif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alip-kamate-722917261/)  
+
+---
+### 🛠️ Languages & Tools  
+
+<p align="center">
+  <!-- Core Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
+
+<p align="center">
+  <!-- Programming & DB -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,postgres,mysql,flask,html,css,js,react,nextjs,git,github,netlify" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamatealif&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamatealif&theme=dracula" height="160"/>
+</div>
+
+---
+
+### 🌐 Portfolio
+🔗 Check out my work here: [**kamatealif.github.io**](https://kamatealif.github.io/)  
+
+---
+
+<!-- Fancy Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C7B7&height=100&section=footer"/>
