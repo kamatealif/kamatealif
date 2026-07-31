@@ -1,3 +1,1 @@
-
-i like machine learning & deep neural nets 🤖
-
+I like playing with data
